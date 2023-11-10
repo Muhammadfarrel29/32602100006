@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">List Top 10 Pemain</string>
+    <string name="players_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Akun</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Muhammad Farrel Ardan</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>farrel@gmail.com</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/saya</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Ronaldo Luis Nazario</item>
+        <item>Alfredo di stefano</item>
+        <item>Michel Platini</item>
+        <item>Franz Beckenbauer</item>
+        <item>Zinidine Zidane</item>
+        <item>Johan Cruyff</item>
+        <item>Diego Maradona</item>
+        <item>Pele</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Lionel Messi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Name:Ronaldo Luis Nazario\nNationality:Brazil\nBorn:18 September, 1976\nPosisi:Penyerang\nApprox.\n\n\n
+            Ronaldo Luis Nazario de Lima merupakan sosok penyerang tertajam timnas Brasil di Piala Dunia hingga kini.\n
+            Selama mengikuti ajang Piala Dunia di tahun 1994, 1998, 2002, dan 2006, Ronaldo membukukan 15 gol dari 19 pertandingan.
+        </item>
+        <item>Name:Alfredo di stefano\nNationality:Argentina\nBorn:4 juli, 1926 \nPosisi:Penyerang,Gelandang Serang\nApprox.\n\n\n
+        Alfredo Di Stefano merupakan salah satu legenda terbesar Real Madrid. Ia menjadi kesuksesan Los Blancos di sepanjang dekade 1950-an silam.\n
+        fredo Di Stefano menciptakan 308 gol dalam 396 laga bersama Real Madrid dan berjasa mempersembahkan delapan trofi La Liga hingga lima gelar Liga Champions.</item>
+
+        <item>Name:Michel Platini\nNationality:Prancis\nBorn:21 juni, 1955\nPosisi:Gelandang serang\nApprox. \n\n\n
+            Ia mengoleksi jawara Ligue 1 1980/81 bersama Saint-Etienne dan dua gelar Serie A bersama Juventus pada 1983/84 dan 1984/85.Bareng Si Nyonya Tua, ia juga menjuarai Piala Eropa pada musim 1984.85.</item>
+
+        <item>Name:Franz Beckenbauer\nNationality:Jerman\nBorn:11 September, 1945\nPosisi:Gelandang\nApprox.\n\n\n
+            Beckenbauer meraih 17 trofi di level klub dan dua gelar juara dengan Timnas Jerman Barat. Untuk penghargaaan individu, Beckenbauer memenangkan trofi pemain terbaik Jerman sebanyak empat kali dan dua kali di ajang Ballon d.Or.</item>
+
+        <item>Name:Zinidine Zidane\nNationality:Prancis\nBorn:23 juni, 1972\nPosisi:Gelandang\nApprox.\n\n\n
+            Pada 1998, masa keemasan di klub diikuti dengan kemenangan Piala Dunia bagi Prancis di kandang mereka. Itu membuat Zidane meraih Ballon dOr pertamanya dan satu-satunya dari tiga penghargaan Pemain Terbaik Dunia FIFA pada tahun 1998. Dia mencetak dua gol di final Piala Dunia itu.</item>
+
+        <item>Name:Johan Cruyff\nNationality:Belanda\nBorn:25 April, 1947\nPosisi:Penyerang\nApprox.\n\n\n
+          Cruyff juga pencetak gol yang produktif, mencetak 401 gol dalam 710 penampilan dari lini tengah. Ia memenangkan tiga Piala Eropa dan 10 gelar liga, tetapi dia tidak dapat memperoleh medali pertama internasional bersama Timnas Belanda.
+        </item>
+        <item>Name:Diego Maradona\nNationality:Argentina\nBorn: 30 Oktober, 1960\nPosisi: Gelandang Serang\nApprox.\n\n\n
+            Maradona sangat mungkin terbesar yang pernah dilihat dalam sepak bola. Kemampuan menggiring bolanya memukau, mencetak golnya unik dan klinis, serta umpan serta umpan silangnya tepat. Tak heran jika dia menghasilkan banyak asis dalam kariernya. Dari lini tengah serang ia mencetak 345 gol dalam 680 pertandingan.</item>
+
+        <item>Name:Pele\nNationality:Brazil\nBorn:30 Oktober, 1960\nPosisi:Penyerang, Gelandang Serang\nApprox.\n\n\n
+            Pele adalah mesin gol terhebat di negara asalnya, Brasil. Legenda ini sering dinobatkan sebagai pemain terbaik. Dia mencetak 1.282 gol luar biasa dalam 1.366 pertandingan (termasuk pertandingan persahabatan)</item>
+
+        <item>Name:Cristiano Ronaldo\nNationality:Portugal\nBorn:5 Februari, 1985\nPosisi:Penyerang\nApprox.\n\n\n
+         Karier Ronaldo menanjak saat ia bergabung dengan Manchester United saat berusia 18 tahun. Ia memenangkan sembilan trofi di sana, termasuk tiga Premier League dan Liga Champions.Saat pindah ke Real Madrid, Ronaldo berusia 24 tahun dan berperan sebagai striker. Bersama Los Blancos, ia memenangkan 15 trofi lagi, termasuk dua gelar liga dan empat Liga Champions.</item>
+
+        <item>Name:Lionel Messi\nNationality:Argentina\nBorn:24 Juni, 1987\nPosisi:Penyerang\nApprox.\n\n\n
+            Messi dikenal karena kakinya yang cepat, kelincahan, kekuatan, akselerasi, dan kemampuannya menggiring bola melewati pemain bertahan. Selain menyundul, Messi memiliki keahlian menyerang yang lengkap, termasuk tembakan akurat, tendangan bebas, penalti, dan kreativitas untuk menghubungkan permainan dan memberikan assist.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ell_1</item>
+        <item>@drawable/alfredo_di_stefano</item>
+        <item>@drawable/michel_platini</item>
+        <item>@drawable/franz_beckenbauer</item>
+        <item>@drawable/zinedine_zidane</item>
+        <item>@drawable/johan_cruyff</item>
+        <item>@drawable/maradona</item>
+        <item>@drawable/pele</item>
+        <item>@drawable/cristiano_ronaldo</item>
+        <item>@drawable/lionel_messi</item>
+    </integer-array>
+</resources>
